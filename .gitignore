@@ -1,0 +1,8 @@
+# The hashtag (#) is the comment character
+
+# Typical backup file patterns 
+*~ # Anything that ends in a tilde
+
+\#*#  # Anything that begins and ends with a hash. (Uses a backslash escape to allo the hash to not be recognized as a comment
+
+*.bak # Anything that ends with the extension ".bak".
